@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "250211094596",
+    "firebase_url": "https://homefinder3.firebaseio.com",
+    "project_id": "homefinder3",
+    "storage_bucket": "homefinder3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250211094596:android:887f731c71f981ce022c11",
+        "android_client_info": {
+          "package_name": "com.example.homefinder3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250211094596-mkroc4q8veh8uihc8i9l4kv7ls31pfie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homefinder3",
+            "certificate_hash": "7eea6a31901ea62d11066847cd29dbf53cdbe788"
+          }
+        },
+        {
+          "client_id": "250211094596-pria5ehn1e26dhhdei687imke73bqcqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3J9LtRlTzwK_ubwJCAeDaPA05PCY-U90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250211094596-pria5ehn1e26dhhdei687imke73bqcqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

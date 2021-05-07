@@ -1,0 +1,2 @@
+rootProject.name='HomeFinder3'
+include ':app'
